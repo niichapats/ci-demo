@@ -43,4 +43,3 @@ def variance(data):
 def stdev(data):
     """the standard deviation of a list of values"""
     return sqrt(variance(data))
-
